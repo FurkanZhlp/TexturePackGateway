@@ -1,0 +1,11 @@
+connect-server: "skyblock"
+url: "https://download.mc-packs.net/pack/7e190ddee44d2a2a5cccf8d50444c6d1ded65455.zip"
+success-message:
+  - '&aResourcepack is loaded. Connecting to server...'
+kick-message:
+  - '&c&lError'
+  - ''
+  - '&cPlease download the texturepack.'
+  - '&7To connect to the server, do the;'
+  - '&eMultiplayer -> The Server -> Settings ->'
+  - '&eServer Resource Packs: Enabled'
